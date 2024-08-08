@@ -18,5 +18,7 @@ public class Main {
         System.out.println("I like typing this.");
 
         System.out.println("This is fun.");
+
+        System.out.println("ceshi idea pull test!");
     }
 }
